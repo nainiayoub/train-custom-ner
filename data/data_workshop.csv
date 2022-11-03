@@ -1,0 +1,5 @@
+Text,Named Entites
+Who is Nishanth?,Nishanth (PERSON)
+Who is Kamal Khumar?,Kamal Khumar (PERSON)
+I like London and Berlin.,"London (LOC), Berlin (LOC)"
+"Michael Jeffrey Jordan was born in Brooklyn, New York.","Michael Jeffrey Jordan (PERSON), Brooklyn (LOC), New York (LOC)"
